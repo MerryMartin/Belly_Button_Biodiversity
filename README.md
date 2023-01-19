@@ -8,26 +8,30 @@ Roza and I have created an amazing dashboard to highlight the biodiversity in us
 
 * There is a dropdown filter where users can select their Subject ID Number
 
-(filter)
+
+![id_selection](https://user-images.githubusercontent.com/115426070/213532398-5ea2e2e5-9fc6-497a-9a78-8a910b4ae2e7.png)
 
 
 
 * The bar chart displays the top ten bacterial cultures found in the users' navel
 
-(bar)
+![bar_chart](https://user-images.githubusercontent.com/115426070/213532426-6451c684-97c2-475d-b5a7-90ec94907531.png)
+
 
 
 
 
 * The bubble chart displays the bacteria cultures per sample
 
-(bubble)
+![bubble](https://user-images.githubusercontent.com/115426070/213532452-45e23a26-5766-4086-9b13-f9451eb4ed93.png)
+
 
 
 
 * The gauge displays the belly button washing frequency of the user
 
-(gauge)
+![gauge](https://user-images.githubusercontent.com/115426070/213532472-143c65e0-3e94-4d74-91ee-acf941b51cc4.png)
+
 
 
 
